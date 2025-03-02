@@ -5,7 +5,7 @@
 🔧 기술 스택
 - 언어: Java (Spring Boot)
 - DB: MySQL, JPA
-- 인프라: AWS, NCP, Docker
+- 인프라: AWS, NCP, Linux, Docker
 - 형상관리: Git (GitHub)
 - 협업툴: JIRA, Confluence, Notion, Slack
 
